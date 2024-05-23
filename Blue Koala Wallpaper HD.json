@@ -14,7 +14,7 @@
       "open_ads_admob":"",
       "open_ads_alien":"",
       "open_ads_max":"1",
-      "interval_intertitial": 6,
+      "interval_intertitial": 5,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -124,140 +124,140 @@
       "name_category": "Blue Koala",
       "title":"Image 11",
       "image":"https://i.pinimg.com/564x/10/36/2f/10362f0d569cbac821301bd91b8ce898.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":12,
       "name_category": "Blue Koala",
       "title":"Image 12",
       "image":"https://i.pinimg.com/736x/ba/1b/ed/ba1bedc0b6484d567c10e67c4e1b1a06.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":13,
       "name_category": "Blue Koala",
       "title":"Image 13",
       "image":"https://i.pinimg.com/564x/4c/f0/95/4cf0954f1de36d2fbf7146dae84d1b21.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":14,
       "name_category": "Blue Koala",
       "title":"Image 14",
       "image":"https://i.pinimg.com/564x/50/6e/e6/506ee61a3923683137a7f7b29204174f.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":15,
       "name_category": "Blue Koala",
       "title":"Image 15",
       "image":"https://i.pinimg.com/564x/9c/6e/4e/9c6e4e121d76741a99d468f403f5ac8e.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":16,
       "name_category": "Blue Koala",
       "title":"Image 16",
       "image":"https://i.pinimg.com/564x/92/ca/3f/92ca3f4de8f077e47504c3ccf3c49cb1.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":17,
       "name_category": "Blue Koala",
       "title":"Image 17",
       "image":"https://i.pinimg.com/564x/ae/ad/bf/aeadbf13b39b6110162921ef129db375.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":18,
       "name_category": "Blue Koala",
       "title":"Image 18",
       "image":"https://i.pinimg.com/564x/ea/fc/b3/eafcb3b91c4955f54366942742500e4d.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":19,
       "name_category": "Blue Koala",
       "title":"Image 19",
       "image":"https://i.pinimg.com/564x/f3/2e/8d/f32e8d990db591c3d4e8e29be221041b.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":20,
       "name_category": "Blue Koala",
       "title":"Image 20",
       "image":"https://i.pinimg.com/564x/ab/06/98/ab0698f6cb00bf35d0e56bf2445c26bc.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":21,
       "name_category": "Blue Koala",
       "title":"Image 21",
       "image":"https://i.pinimg.com/564x/b5/94/cf/b594cf65e3820045ec21512d474ac63e.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":22,
       "name_category": "Blue Koala",
       "title":"Image 22",
       "image":"https://i.pinimg.com/564x/e6/b4/a9/e6b4a99f17d80e183a7788983a123465.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":23,
       "name_category": "Blue Koala",
       "title":"Image 23",
       "image":"https://i.pinimg.com/564x/06/3c/21/063c21d1751f478128d569ab0297b4d3.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":24,
       "name_category": "Blue Koala",
       "title":"Image 24",
       "image":"https://i.pinimg.com/564x/82/e5/d4/82e5d436e33c3fe7d012cf944919479a.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":25,
       "name_category": "Blue Koala",
       "title":"Image 25",
       "image":"https://i.pinimg.com/564x/3e/53/8a/3e538a94e3615fad7ce63ff0fcc91f04.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":26,
       "name_category": "Blue Koala",
       "title":"Image 26",
       "image":"https://i.pinimg.com/564x/9f/8e/6d/9f8e6d0a7d91c8b33b405ac327719f7b.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":27,
       "name_category": "Blue Koala",
       "title":"Image 27",
       "image":"https://i.pinimg.com/564x/85/83/14/85831431a42dab6b828ea8e34328716f.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":28,
       "name_category": "Blue Koala",
       "title":"Image 28",
       "image":"https://i.pinimg.com/564x/46/23/62/462362e62a24914ca9913b431475332d.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":29,
       "name_category": "Blue Koala",
       "title":"Image 29",
       "image":"https://i.pinimg.com/564x/20/ef/2f/20ef2fbabe9c395f850ebaf2bb75bfec.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":30,
       "name_category": "Blue Koala",
       "title":"Image 30",
       "image":"https://i.pinimg.com/564x/a3/cb/a2/a3cba25b619a40694268ef8c887cd683.jpg",
-      "lock":false
+      "lock":true
     },
 	{
       "id":31,
